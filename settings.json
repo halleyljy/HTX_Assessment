@@ -1,0 +1,17 @@
+{
+    "scenario_name": "smoke_test",
+    "replications": 12,
+    "sim_days": 14,
+    "arrival_rate_per_hour": 10.0,
+    "p_fast": 0.35,
+    "p_need_lab": 0.30,
+    "p_admit_main": 0.25,
+    "fast_doctors": 1,
+    "fast_nurses": 1,
+    "main_doctors": 3,
+    "main_nurses": 6,
+    "ed_treatment_beds": 20,
+    "lab_servers": 1,
+    "seed_base": 1000,
+    "queue_sample_interval_min": 30
+}
