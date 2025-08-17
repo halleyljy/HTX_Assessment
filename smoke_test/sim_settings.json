@@ -1,0 +1,21 @@
+{
+  "scenario_name": "smoke_test",
+  "generated_at": "2025-08-17 11:17:34.131448",
+  "params": {
+    "scenario_name": "smoke_test",
+    "replications": 12,
+    "sim_days": 14,
+    "arrival_rate_per_hour": 10.0,
+    "p_fast": 0.3,
+    "p_need_lab_fast": 0.1,
+    "p_need_lab_main": 0.3,
+    "p_admit_main": 0.2,
+    "fast_doctors": 1,
+    "fast_nurses": 1,
+    "main_doctors": 5,
+    "main_nurses": 10,
+    "ed_treatment_beds": 20,
+    "seed_base": 1000,
+    "queue_sample_interval_min": 30
+  }
+}
